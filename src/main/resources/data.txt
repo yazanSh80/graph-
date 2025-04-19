@@ -1,0 +1,306 @@
+Washington D.C.-Brasilia-217-4
+Washington D.C.-Buenos Aires-237-4
+Washington D.C.-Santiago-256-5
+Washington D.C.-Lima-265-5
+Washington D.C.-Ottawa-358-7
+Washington D.C.-Mexico City-372-7
+Berlin-Rome-100-1
+Berlin-Brussels-100-1
+Berlin-Paris-100-1
+Berlin-Copenhagen-110-2
+Berlin-Warsaw-130-2
+Berlin-Athens-171-3
+Ottawa-Mexico City-326-6
+Ottawa-Washington D.C.-358-7
+Ottawa-Brasilia-558-11
+Ottawa-Lima-578-11
+Ottawa-Buenos Aires-595-11
+Ottawa-Santiago-611-12
+Ankara-Damascus-100-1
+Ankara-Jerusalem-100-1
+Ankara-Amman-117-2
+Ankara-Athens-119-2
+Ankara-Kyiv-119-2
+Ankara-Baghdad-147-2
+Beijing-Ulaanbaatar-100-1
+Beijing-Bangkok-100-1
+Beijing-Jakarta-116-2
+Beijing-Seoul-287-5
+Beijing-New Delhi-288-5
+Beijing-Tokyo-373-7
+Moscow-Kyiv-232-4
+Moscow-Tehran-286-5
+Moscow-Ankara-298-5
+Moscow-Helsinki-314-6
+Moscow-Baghdad-316-6
+Moscow-Warsaw-318-6
+Algiers-Rabat-100-1
+Algiers-Madrid-135-2
+Algiers-Rome-200-4
+Algiers-Paris-215-4
+Algiers-Berlin-245-4
+Algiers-Abuja-245-4
+Tehran-Doha-100-1
+Tehran-Baghdad-100-1
+Tehran-Damascus-169-3
+Tehran-Amman-173-3
+Tehran-Riyadh-181-3
+Tehran-Jerusalem-184-3
+Paris-Brussels-100-1
+Paris-London-100-1
+Paris-Berlin-100-1
+Paris-Madrid-100-1
+Paris-Copenhagen-130-2
+Paris-Rome-130-2
+Pretoria-Lusaka-364-7
+Pretoria-Luanda-464-9
+Pretoria-Abuja-603-12
+Pretoria-N'Djamena-673-13
+Pretoria-Abu Dhabi-776-15
+Pretoria-Riyadh-784-15
+Oslo-Stockholm-100-1
+Oslo-Copenhagen-100-1
+Oslo-Helsinki-122-2
+Oslo-Brussels-146-2
+Oslo-London-171-3
+Oslo-Warsaw-172-3
+Stockholm-Oslo-100-1
+Stockholm-Helsinki-100-1
+Stockholm-Copenhagen-133-2
+Stockholm-Warsaw-176-3
+Stockholm-Brussels-205-4
+Stockholm-London-235-4
+Helsinki-Stockholm-100-1
+Helsinki-Oslo-122-2
+Helsinki-Warsaw-152-3
+Helsinki-Copenhagen-164-3
+Helsinki-Kyiv-237-4
+Helsinki-Brussels-243-4
+London-Brussels-100-1
+London-Paris-100-1
+London-Copenhagen-139-2
+London-Madrid-149-2
+London-Oslo-171-3
+London-Berlin-172-3
+Cairo-Amman-100-1
+Cairo-Jerusalem-100-1
+Cairo-Damascus-100-2
+Cairo-Riyadh-131-2
+Cairo-Ankara-155-3
+Cairo-Athens-165-3
+Abu Dhabi-Doha-134-2
+Abu Dhabi-Riyadh-171-3
+Abu Dhabi-Tehran-188-3
+Abu Dhabi-Islamabad-195-3
+Abu Dhabi-Baghdad-212-4
+Abu Dhabi-Amman-260-5
+Riyadh-Doha-108-2
+Riyadh-Amman-111-2
+Riyadh-Baghdad-129-2
+Riyadh-Cairo-131-2
+Riyadh-Jerusalem-136-2
+Riyadh-Damascus-146-2
+Bangkok-Beijing-100-1
+Bangkok-Ulaanbaatar-108-2
+Bangkok-Jakarta-136-2
+Bangkok-New Delhi-215-4
+Bangkok-Islamabad-307-6
+Bangkok-Almaty-347-6
+Lusaka-Luanda-181-3
+Lusaka-Abuja-307-6
+Lusaka-N'Djamena-318-6
+Lusaka-Pretoria-364-7
+Lusaka-Riyadh-438-8
+Lusaka-Cairo-462-9
+Baghdad-Doha-100-1
+Baghdad-Tehran-100-1
+Baghdad-Damascus-100-1
+Baghdad-Amman-100-1
+Baghdad-Jerusalem-103-2
+Baghdad-Riyadh-129-2
+Damascus-Jerusalem-100-1
+Damascus-Amman-100-1
+Damascus-Ankara-100-1
+Damascus-Baghdad-100-1
+Damascus-Cairo-100-2
+Damascus-Riyadh-146-2
+Warsaw-Copenhagen-124-2
+Warsaw-Kyiv-128-2
+Warsaw-Berlin-130-2
+Warsaw-Helsinki-152-3
+Warsaw-Rome-171-3
+Warsaw-Oslo-172-3
+Jerusalem-Damascus-100-1
+Jerusalem-Amman-100-1
+Jerusalem-Cairo-100-1
+Jerusalem-Ankara-100-1
+Jerusalem-Baghdad-103-2
+Jerusalem-Riyadh-136-2
+Doha-Baghdad-100-1
+Doha-Tehran-100-1
+Doha-Riyadh-108-2
+Doha-Abu Dhabi-134-2
+Doha-Amman-143-2
+Doha-Damascus-157-3
+N'Djamena-Abuja-167-3
+N'Djamena-Cairo-205-4
+N'Djamena-Luanda-236-4
+N'Djamena-Algiers-260-5
+N'Djamena-Riyadh-278-5
+N'Djamena-Amman-279-5
+Ulaanbaatar-Beijing-100-1
+Ulaanbaatar-Bangkok-108-2
+Ulaanbaatar-Jakarta-127-2
+Ulaanbaatar-Seoul-279-5
+Ulaanbaatar-New Delhi-303-6
+Ulaanbaatar-Tokyo-366-7
+Wellington-Canberra-321-6
+Wellington-Ulaanbaatar-577-11
+Wellington-Beijing-597-11
+Wellington-Moscow-600-12
+Wellington-Seoul-626-12
+Wellington-Tokyo-654-13
+Santiago-Buenos Aires-100-1
+Santiago-Lima-135-2
+Santiago-Brasilia-165-3
+Santiago-Washington D.C.-256-5
+Santiago-Nuuk-288-5
+Santiago-Reykjavík-443-8
+Seoul-Tokyo-100-1
+Seoul-Jakarta-225-4
+Seoul-Ulaanbaatar-279-5
+Seoul-Beijing-287-5
+Seoul-Canberra-318-6
+Seoul-Bangkok-351-7
+Brussels-Paris-100-1
+Brussels-Copenhagen-100-1
+Brussels-London-100-1
+Brussels-Berlin-100-1
+Brussels-Oslo-146-2
+Brussels-Rome-150-3
+Amman-Jerusalem-100-1
+Amman-Damascus-100-1
+Amman-Cairo-100-1
+Amman-Baghdad-100-1
+Amman-Riyadh-111-2
+Amman-Ankara-117-2
+Brasilia-Buenos Aires-100-1
+Brasilia-Santiago-165-3
+Brasilia-Washington D.C.-217-4
+Brasilia-Lima-279-5
+Brasilia-Nuuk-314-6
+Brasilia-Reykjavík-480-9
+Canberra-Seoul-318-6
+Canberra-Wellington-321-6
+Canberra-Tokyo-334-6
+Canberra-Ulaanbaatar-392-7
+Canberra-Beijing-412-8
+Canberra-Jakarta-446-8
+Copenhagen-Brussels-100-1
+Copenhagen-Oslo-100-1
+Copenhagen-Berlin-110-2
+Copenhagen-Warsaw-124-2
+Copenhagen-Paris-130-2
+Copenhagen-Stockholm-133-2
+Almaty-Islamabad-126-2
+Almaty-New Delhi-183-3
+Almaty-Tehran-232-4
+Almaty-Abu Dhabi-274-5
+Almaty-Doha-279-5
+Almaty-Baghdad-314-6
+Rome-Berlin-100-1
+Rome-Athens-127-2
+Rome-Paris-130-2
+Rome-Brussels-150-3
+Rome-Madrid-169-3
+Rome-Warsaw-171-3
+Kyiv-Ankara-119-2
+Kyiv-Warsaw-128-2
+Kyiv-Athens-165-3
+Kyiv-Damascus-198-3
+Kyiv-Jerusalem-213-4
+Kyiv-Berlin-224-4
+Rabat-Madrid-100-1
+Rabat-Algiers-100-1
+Rabat-Paris-183-3
+Rabat-Rome-225-4
+Rabat-London-226-4
+Rabat-Brussels-236-4
+Jakarta-Beijing-116-2
+Jakarta-Ulaanbaatar-127-2
+Jakarta-Bangkok-136-2
+Jakarta-Seoul-225-4
+Jakarta-Tokyo-305-6
+Jakarta-New Delhi-347-6
+New Delhi-Islamabad-100-1
+New Delhi-Almaty-183-3
+New Delhi-Bangkok-215-4
+New Delhi-Abu Dhabi-270-5
+New Delhi-Beijing-288-5
+New Delhi-Ulaanbaatar-303-6
+Buenos Aires-Santiago-100-1
+Buenos Aires-Brasilia-100-1
+Buenos Aires-Lima-204-4
+Buenos Aires-Washington D.C.-237-4
+Buenos Aires-Nuuk-277-5
+Buenos Aires-Reykjavík-442-8
+Tokyo-Seoul-100-1
+Tokyo-Jakarta-305-6
+Tokyo-Canberra-334-6
+Tokyo-Ulaanbaatar-366-7
+Tokyo-Beijing-373-7
+Tokyo-Bangkok-435-8
+Madrid-Rabat-100-1
+Madrid-Paris-100-1
+Madrid-Algiers-135-2
+Madrid-London-149-2
+Madrid-Brussels-152-3
+Madrid-Rome-169-3
+Athens-Ankara-119-2
+Athens-Rome-127-2
+Athens-Jerusalem-159-3
+Athens-Damascus-163-3
+Athens-Cairo-165-3
+Athens-Kyiv-165-3
+Reykjavík-Nuuk-166-3
+Reykjavík-London-190-3
+Reykjavík-Brussels-268-5
+Reykjavík-Paris-276-5
+Reykjavík-Madrid-288-5
+Reykjavík-Oslo-291-5
+Lima-Santiago-135-2
+Lima-Buenos Aires-204-4
+Lima-Washington D.C.-265-5
+Lima-Brasilia-279-5
+Lima-Nuuk-398-7
+Lima-Mexico City-414-8
+Luanda-Abuja-141-2
+Luanda-Lusaka-181-3
+Luanda-N'Djamena-236-4
+Luanda-Algiers-387-7
+Luanda-Cairo-434-8
+Luanda-Rabat-454-9
+Abuja-Luanda-141-2
+Abuja-N'Djamena-167-3
+Abuja-Algiers-245-4
+Abuja-Lusaka-307-6
+Abuja-Rabat-313-6
+Abuja-Cairo-369-7
+Mexico City-Ottawa-326-6
+Mexico City-Washington D.C.-372-7
+Mexico City-Lima-414-8
+Mexico City-Santiago-519-10
+Mexico City-Buenos Aires-552-11
+Mexico City-Brasilia-573-11
+Nuuk-Reykjavík-166-3
+Nuuk-Buenos Aires-277-5
+Nuuk-Santiago-288-5
+Nuuk-Brasilia-314-6
+Nuuk-London-339-6
+Nuuk-Madrid-388-7
+Islamabad-New Delhi-100-1
+Islamabad-Almaty-126-2
+Islamabad-Abu Dhabi-195-3
+Islamabad-Tehran-252-5
+Islamabad-Doha-262-5
+Islamabad-Bangkok-307-6
